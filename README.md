@@ -2,7 +2,6 @@
 Pequeno projeto com compose para treinar a parte de state.
 
 ## :camera_flash: ScreenShots
-![Screenshot_1656877713]()
 
 <img src="https://user-images.githubusercontent.com/26637908/177055160-6912a6ae-69d3-490a-aac2-c9271c6e6657.png" width="260">&emsp;
 
